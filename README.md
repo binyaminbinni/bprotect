@@ -4,6 +4,8 @@
   <p align="center">Protect your executables from reverse engineering, extraction & tampering</p>
 </p>
 
+> **Repository Description:** Advanced Binary Protection System for ARM64 - Protect your executables from reverse engineering, extraction & tampering
+
 ---
 
 ## 🔐 What is BPROTECT?
